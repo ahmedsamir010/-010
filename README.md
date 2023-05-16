@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-samir-sakr-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-samir-sakr-/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ahmedsamir.sakr.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmedsamir.sakr.5" height="30" width="40" /></a>
+<a href="/ahmedsamir.sakr.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmedsamir.sakr.5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/a7med_samir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/a7med_samir/" height="30" width="40" /></a>
 </p>
 
