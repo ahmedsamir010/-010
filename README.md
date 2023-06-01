@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamir010&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir010" alt="ahmedsamir010" /></a> </p>
+	
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
+<img align="right" src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Right_Side.gif" width=30%>
+
+<br><br>
+
 
 - 🌱 I’m currently learning **backend .Net , React**
 
