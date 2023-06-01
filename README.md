@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Samir Sakr</h1>
-<h3 align="center">Full Stack Developer.NET</h3>
+  <h1 style="color: #333; margin-top: 20px;">Hi 👋, I'm Ahmed Samir Sakr</h1>
+  <h3 style="color: #777; margin-bottom: 20px;">Full Stack Developer.NET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamir010&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir010" /> </p>
 
