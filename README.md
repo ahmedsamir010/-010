@@ -11,15 +11,18 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **backend .Net , React**
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1xbjObFo7W2KFexsCxSR2CayKa88z7JLW).
+- :boom: You can visit [LinkedIn](https://www.linkedin.com/in/ahmed-samir-sakr-/).
+<br>
 
-- 📫 How to reach me **ahmedsamirsakr50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xbjObFo7W2KFexsCxSR2CayKa88z7JLW](https://drive.google.com/drive/folders/1xbjObFo7W2KFexsCxSR2CayKa88z7JLW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-samir-sakr-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-samir-sakr-/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-samir-sakr-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-samir-sakr-/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ahmedsamir.sakr.5/ahmedsamir.sakr.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmedsamir.sakr.5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/a7med_samir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/a7med_samir/" height="30" width="40" /></a>
 </p>
