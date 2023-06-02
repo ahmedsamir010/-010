@@ -18,7 +18,7 @@
 - :boom: You can visit [LinkedIn](https://www.linkedin.com/in/ahmed-samir-sakr-/).
 <br>
 
-## <img src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Connect-with-me.gif" width="10%"> Connect with me
+## <img src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Connect-with-me.gif" width="30%"> Connect with me
 <p align="center">
 	<a href="ahmedsamirsakr50@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/ahmedsamir010"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
